@@ -23,12 +23,12 @@ The system uses JSON files for data persistence:
 
 ## Features
 
-### 👨‍💼 Admin
+### Admin
 - Login with username/password.
 - Add MCQs with 4 options and an answer key.
 - Save new questions to `quiz.json`.
 
-### 👨‍🎓 Student
+### Student
 - Login with student credentials.
 - Take a 10-question random quiz.
 - Score calculation with feedback:
@@ -40,5 +40,7 @@ The system uses JSON files for data persistence:
 ---
 
 ## Project Video Demo
+https://github.com/user-attachments/assets/6578b22d-c214-4453-9668-4aa3b1ad9fa1
+
 
 
